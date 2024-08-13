@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sam mutemi 
-- 👀 I’m interested in programming, web design, machine learning and artificial intelligence 
-- 🌱 I’m currently learning HTML, CSS, java, JavaScript and python 
-- 💞️ I’m looking to collaborate on web design 
+-
 - 📫 How to reach me ...
 Reach via email: samsonmutemi377@gmail.com
 Phone: 0795695670
