@@ -1,5 +1,7 @@
 # 💫 About Me:
-Web development
+Web developer.
+Data analyst,
+Cyber security enthusiast.
 
 
 ## 🌐 Socials:
