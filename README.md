@@ -1,7 +1,7 @@
 # 💫 About Me:
 Web developer.
 Data analyst,
-Cyber security enthusiast.
+Cyber security beginner.
 
 
 ## 🌐 Socials:
